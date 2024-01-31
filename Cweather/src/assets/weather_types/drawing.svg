@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="85mm"
+   viewBox="0 0 200 85"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="187.89365"
+   inkscape:export-ydpi="187.89365"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="174.67435"
+     inkscape:cy="207.17191"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:10.5833px;font-family:Current;-inkscape-font-specification:'Current Heavy';text-align:center;text-anchor:middle;fill:#00ffff;fill-opacity:1;stroke-width:0.264583"
+       x="85.625595"
+       y="113.49191"
+       id="text740"><tspan
+         sodipodi:role="line"
+         id="tspan738"
+         style="fill:#00ffff;fill-opacity:1;stroke-width:0.264583"
+         x="85.625595"
+         y="113.49191" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:35.1262px;line-height:0;font-family:Current;-inkscape-font-specification:'Current Heavy';text-align:center;letter-spacing:3.96875px;word-spacing:0px;text-anchor:middle;fill:#5e5321;fill-opacity:1;stroke-width:0.878158"
+       x="98.466858"
+       y="57.548744"
+       id="text952"><tspan
+         id="tspan950"
+         style="fill:#5e5321;fill-opacity:1;stroke-width:0.878158"
+         x="100.45123"
+         y="57.548744"
+         sodipodi:role="line"
+         dx="0"
+         rotate="0 0 0 0 0 0"><tspan
+   style="font-size:50.8px"
+   id="tspan4326">V</tspan>ISUO</tspan></text>
+  </g>
+</svg>

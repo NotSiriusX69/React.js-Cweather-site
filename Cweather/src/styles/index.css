@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base{
+  h1{
+    color:#FFFFFF;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 0.18vh;
+  }
+  h2{
+    color: #523F20;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    letter-spacing: 0.38vh;
+  }
+  P{
+    color: #FFF;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 0.12vh;
+  }
+  ul,li{
+    list-style-type: none;
+    padding: 0;
+  }
+  li{
+    padding-bottom: 0.1vh;
+  }
+  h4{
+    color: #FFF;
+    font-size: larger;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 0.14vh;
+    padding-bottom: 12px;
+  }
+  input[type="text"]::placeholder{
+      font-family: 'Roboto';
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.12vh;
+  }
+  input[type="text"]:focus{
+      outline: none;
+      border: 2px solid #2F389D ;
+  }
+}
+
+@layer components {
+    #root{
+        display: flex;
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    .search_box{
+        width: 30vw;
+        background-color: #EFEFEF;
+    }
+    .main-btn{
+        letter-spacing: 0.12vh;
+    }
+    .visual-svg{
+        width: 100%;
+        height: fit-content;
+    }
+}
+
+@layer utilities {
+    ::-webkit-scrollbar {
+      width: 18px;
+      height: 18px;
+    }
+    ::-webkit-scrollbar-track {
+      background-color: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #c3c3c3;
+      border-radius: 100vh;
+      border: 3px solid #f6f7ed;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #9a9a9a;
+    }
+  }
